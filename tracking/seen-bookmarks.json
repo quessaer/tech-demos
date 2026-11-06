@@ -7,6 +7,14 @@
       "date": "2026-10-29",
       "status": "approved",
       "app": "apps/jev-decision-lab"
+    },
+    {
+      "id": "2118169926339121210",
+      "title": "Shim (Balanov/shim) tiny local-first AI harness",
+      "url": "https://x.com/nahid_pro09/status/2118169926339121210",
+      "date": "2026-11-06",
+      "status": "approved",
+      "app": "apps/shim-harness-lab"
     }
   ],
   "reviewed": []
